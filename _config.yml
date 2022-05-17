@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Parker Robbins"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/logo.png"
   bio    : "Current MA student at the University of Toronto. Interested in syntax, sentence processing, and surviving grad school with a chronic illness."
   links:
     - label: "Website"
