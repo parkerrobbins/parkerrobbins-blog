@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Jekyll!"
+title: "Welcome to the Brainfoggy Linguist"
 date: 2022-05-17
 categories:
   - blog
