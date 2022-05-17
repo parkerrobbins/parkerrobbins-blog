@@ -22,7 +22,7 @@ tags:
     However, choosing to disclose an illness is a decision that should
     not be taken lightly. Even if it is not intentional on their parts,
     it can change how people interact with you, how they view your work,
-    and even whether they think its worth your time to advise you. When
+    and even whether they think its worth their time to advise you. When
     chronically ill students do choose to disclose an illness, we have
     decided that the benefits of sharing that information outweigh the
     risks — we don't want to hear that we should have told you sooner.
